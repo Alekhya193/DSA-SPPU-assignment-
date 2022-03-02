@@ -1,2 +1,2 @@
 # DSA-SPPU-assignment-
-DSA assignments of SPPU 2019 pattern
+Here are the all assignments of first year IT of DSA SPPU 2019 pattern
